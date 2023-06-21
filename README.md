@@ -3,7 +3,7 @@
 Metric used - Mean Absolute Error\
 There are total of 18 Features\
 Feature to be predicted - yield\
-Problem Type - Regression\
+Problem Type - Regression
 
 I have used 7 different types of algorithms\
 1.Linear Regression\
